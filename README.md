@@ -1,6 +1,6 @@
 # Kicad Tayda Quick Order BOM
 
-A KiCad BOM generator to generate a csv that can be imported into the Tayda quick order.
+A KiCad BOM generator to generate a csv that can be imported into the [Tayda quick order](https://www.taydaelectronics.com/quick-order/).
 
 For this to work you will need to add a custom field to you components named "Tayda". I find the easiest way to do this is once the schematic is finished to use the bulk edit fields tool.
 
